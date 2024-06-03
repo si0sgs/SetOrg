@@ -1,0 +1,444 @@
+{
+    "class": "go.TreeModel",
+    "nodeDataArray": [
+        {
+            "key": 1,
+            "name": "Sergio González",
+            "title": "Servicios Empresariales de Tecnología",
+            "dept": "SET",
+            "pic": "/Sergio.jpg",
+            "email": "",
+            "phone": ""
+        },
+        {
+            "key": 2,
+            "name": "5534",
+            "title": "Servicios de Arquitectura de Soluciones Digitales",
+            "dept": "Unidad SASD",
+            "pic": "/SASD.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 1
+        },
+        {
+            "key": 3,
+            "name": "5533",
+            "title": "Arquitectura de Sistemas",
+            "dept": "Unidad AS",
+            "pic": "/ArqSis.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 1
+        },
+        {
+            "key": 4,
+            "name": "Dayanna Sánchez",
+            "title": "Proceso APO08",
+            "dept": "SET",
+            "pic": "/Dayanna.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 1
+        },
+        {
+            "key": 5,
+            "name": "Óscar Salas",
+            "title": "Arquitectuta Soluciones Digitales (ASD)",
+            "dept": "Unidad SASD",
+            "pic": "/Oscar.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 2
+        },
+        {
+            "key": 6,
+            "name": "Jonathan Casanova",
+            "title": "Arquitectura de Interoperabilidad (AI)",
+            "dept": "Unidad AS",
+            "pic": "/Jonathan.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 3
+        },
+        {
+            "key": 7,
+            "name": "Kimberlyn Guzman (Scrum Master)",
+            "title": "Aplicaciones Móviles",
+            "dept": "Proceso ASD",
+            "pic": "/Kimberlyn.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 5
+        },        
+        {
+            "key": 8,
+            "name": "Carlos Badilla (Scrum Master)",
+            "title": "Ágil / Laboratorio Ditital",
+            "dept": "Proceso ASD",
+            "pic": "/Badilla.png",
+            "email": "",
+            "phone": "",
+            "parent": 5
+        },        
+        {
+            "key": 9,
+            "name": "Allan Durán (Scrum Master)",
+            "title": "Asegúrate / PCE",
+            "dept": "Proceso ASD",
+            "pic": "/Allan.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 5
+        },        
+        {
+            "key": 10,
+            "name": "DA",
+            "title": "Diseño de Arquitecturas",
+            "dept": "Proceso AI",
+            "pic": "/DisenioArq.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 6
+        },     
+        {
+            "key": 10,
+            "name": "Olman Carballo",
+            "title": "Diseño de Arquitecturas",
+            "dept": "Proceso DA",
+            "pic": "/Olman.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 10
+        },
+        {
+            "key": 11,
+            "name": "CI",
+            "title": "Construcción de Interoperabilidad",
+            "dept": "Proceso AI",
+            "pic": "/Interoperabilidad.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 6
+        },
+        {
+            "key": 12,
+            "name": "Óscar Romero",
+            "title": "Construcción de Interoperabilidad",
+            "dept": "Proceso CI",
+            "pic": "/OscarR.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 11
+        },
+        {
+            "key": 13,
+            "name": "Óscar Chinchilla",
+            "title": "Construcción de Interoperabilidad",
+            "dept": "Proceso CI",
+            "pic": "/OscarC.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 11
+        },
+        {
+            "key": 14,
+            "name": "Abraham Montero",
+            "title": "Construcción de Interoperabilidad",
+            "dept": "Proceso CI",
+            "pic": "/Abraham.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 11
+        },
+        {
+            "key": 15,
+            "name": "Marlon Méndez",
+            "title": "Arquitectura de Datos (AD)",
+            "dept": "Unidad AS",
+            "pic": "/Marlon.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 3
+        },                      
+        {
+            "key": 16,
+            "name": "Ricardo Zelada",
+            "title": "Servicios de Entrega de Datos (ED)",
+            "dept": "Proceso AD",
+            "pic": "/Zelada.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 15
+        },
+        {
+            "key": 17,
+            "name": "Mario Monge",
+            "title": "Servicios de Entrega de Datos (ED)",
+            "dept": "Proceso ED",
+            "pic": "/Mario.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 16
+        },
+        {
+            "key": 18,
+            "name": "Randall Moya",
+            "title": "Servicios de Entrega de Datos (ED)",
+            "dept": "Proceso ED",
+            "pic": "/Randall.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 16
+        },
+        {
+            "key": 19,
+            "name": "Leonardo Arguedas",
+            "title": "Servicios de Entrega de Datos (ED)",
+            "dept": "Proceso ED",
+            "pic": "/Leonardo.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 16
+        },
+        {
+            "key": 20,
+            "name": "Cristian Alvarado",
+            "title": "Servicios de Entrega de Datos (ED)",
+            "dept": "Proceso ED",
+            "pic": "/Cristian.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 16
+        },
+        {
+            "key": 21,
+            "name": "Carlos Jiménez",
+            "title": "Servicios de Entrega de Datos (ED)",
+            "dept": "Proceso ED",
+            "pic": "/Carlos.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 16
+        },
+        {
+            "key": 22,
+            "name": "Daniel Rojas",
+            "title": "Servicios de Entrega de Datos (ED)",
+            "dept": "Proceso ED",
+            "pic": "/Daniel.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 16
+        },
+        {
+            "key": 23,
+            "name": "(IS) Karla Guevara",
+            "title": "Servicios de Entrega de Datos (ED)",
+            "dept": "Proceso ED",
+            "pic": "/Karla.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 16
+        },        
+        {
+            "key": 24,
+            "name": "IS Roberto Sánchez (Scrum Master)",
+            "title": "Arquitectura de Datos en Nube (ADN)",
+            "dept": "Proceso AD",
+            "pic": "/Roberto.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 15
+        },
+        {
+            "key": 25,
+            "name": "Stephany Esquivel (Scrum Master)",
+            "title": "Arquitectura de Datos On Premises (ADOP)",
+            "dept": "Proceso AD",
+            "pic": "/Stephany.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 15
+        },
+        {
+            "key": 26,
+            "name": "IS Ana Solano",
+            "title": "Arquitectura de Datos On Premises (ADOP)",
+            "dept": "Proceso ADOP",
+            "pic": "/Ana.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 25
+        },
+        {
+            "key": 27,
+            "name": "IS David Melendez",
+            "title": "Arquitectura de Datos On Premises (ADOP)",
+            "dept": "Proceso ADOP",
+            "pic": "/David.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 25
+        },
+        {
+            "key": 28,
+            "name": "IS Andres Morales",
+            "title": "Arquitectura de Datos On Premises (ADOP)",
+            "dept": "Proceso ADOP",
+            "pic": "/Andres.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 25
+        },
+        {
+            "key": 29,
+            "name": "IS Fabiola Espinoza",
+            "title": "Arquitectura de Datos On Premises (ADOP)",
+            "dept": "Proceso ADOP",
+            "pic": "/Fabiola.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 25
+        },                               
+        {
+            "key": 30,
+            "name": "IS Yeremi Valverde",
+            "title": "Arquitectura de Datos On Premises (ADOP)",
+            "dept": "Proceso ADOP",
+            "pic": "/Yeremi.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 25
+        },
+        {
+            "key": 31,
+            "name": "Mayra Brenes",
+            "title": "Arquitecturas Tecnológicas y Low Code (ATLC)",
+            "dept": "Unidad SASD",
+            "pic": "/Mayra.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 2
+        },
+        {
+            "key": 31,
+            "name": "Jenny Pereira",
+            "title": "Iniciativas Tecnológicas",
+            "dept": "Proceso ATLC",
+            "pic": "/Jenny.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 31
+        },
+        {
+            "key": 32,
+            "name": "SLC",
+            "title": "Soluciones Low Code (PP/BPM/RPA/BOTs/SUGESE)",
+            "dept": "Proceso ATLC",
+            "pic": "/LowCode.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 31
+        },
+        {
+            "key": 33,
+            "name": "Elizabeth Angúlo",
+            "title": "Soluciones Low Code",
+            "dept": "Proceso SLC",
+            "pic": "/Elizabeth.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 32
+        },
+        {
+            "key": 34,
+            "name": "Luis Solís",
+            "title": "Soluciones Low Code",
+            "dept": "Proceso SLC",
+            "pic": "/Luis.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 32
+        },
+        {
+            "key": 35,
+            "name": "Juan Carlos Artavia",
+            "title": "Soluciones Low Code",
+            "dept": "Proceso SLC",
+            "pic": "/JuanC.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 32
+        },
+        {
+            "key": 36,
+            "name": "Equipo de Nova",
+            "title": "Aplicaciones Móviles",
+            "dept": "Proceso ASD",
+            "pic": "/Nova.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 7
+        },
+        {
+            "key": 37,
+            "name": "Equipo de Nova",
+            "title": "Ágil / Laboratorio Ditital",
+            "dept": "Proceso ASD",
+            "pic": "/Nova.JPG",
+            "email": "",
+            "phone": "",
+            "parent": 8
+        },        
+        {
+            "key": 38,
+            "name": "Equipo de Nova",
+            "title": "Asegúrate / PCE",
+            "dept": "Proceso ASD",
+            "pic": "/Nova.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 9
+        },
+        {
+            "key": 39,
+            "name": "Equipo de Nova",
+            "title": "Arquitectura de Datos en Nube (ADN)",
+            "dept": "Proceso ADN",
+            "pic": "/nOVA.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 24
+        },
+        {
+            "key": 40,
+            "name": "Arquitecto de Nova",
+            "title": "Arquitectura de Datos (AD)",
+            "dept": "Proceso AD",
+            "pic": "/Nova.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 15
+        },
+        {
+            "key": 41,
+            "name": "Arquitecto de Nova",
+            "title": "Arquitectuta Soluciones Digitales (ASD)",
+            "dept": "Unidad SASD",
+            "pic": "/Nova.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 5
+        },
+        {
+            "key": 41,
+            "name": "Arquitecto de Nova",
+            "title": "Arquitectura de Interoperabilidad (AI)",
+            "dept": "Unidad AS",
+            "pic": "/Nova.jpg",
+            "email": "",
+            "phone": "",
+            "parent": 6
+        }                
+    ]
+}
