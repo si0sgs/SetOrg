@@ -6,7 +6,7 @@
             "name": "Sergio González",
             "title": "Servicios Empresariales de Tecnología",
             "dept": "SET",
-            "pic": "/Sergio.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Sergio.jpg",
             "email": "",
             "phone": ""
         },
@@ -15,7 +15,7 @@
             "name": "5534",
             "title": "Servicios de Arquitectura de Soluciones Digitales",
             "dept": "Unidad SASD",
-            "pic": "/SASD.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/SASD.jpg",
             "email": "",
             "phone": "",
             "parent": 1
@@ -25,7 +25,7 @@
             "name": "5533",
             "title": "Arquitectura de Sistemas",
             "dept": "Unidad AS",
-            "pic": "/ArqSis.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/ArqSis.jpg",
             "email": "",
             "phone": "",
             "parent": 1
@@ -35,7 +35,7 @@
             "name": "Dayanna Sánchez",
             "title": "Proceso APO08",
             "dept": "SET",
-            "pic": "/Dayanna.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Dayanna.jpg",
             "email": "",
             "phone": "",
             "parent": 1
@@ -45,7 +45,7 @@
             "name": "Óscar Salas",
             "title": "Arquitectuta Soluciones Digitales (ASD)",
             "dept": "Unidad SASD",
-            "pic": "/Oscar.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Oscar.jpg",
             "email": "",
             "phone": "",
             "parent": 2
@@ -55,7 +55,7 @@
             "name": "Jonathan Casanova",
             "title": "Arquitectura de Interoperabilidad (AI)",
             "dept": "Unidad AS",
-            "pic": "/Jonathan.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Jonathan.jpg",
             "email": "",
             "phone": "",
             "parent": 3
@@ -65,7 +65,7 @@
             "name": "Kimberlyn Guzman (Scrum Master)",
             "title": "Aplicaciones Móviles",
             "dept": "Proceso ASD",
-            "pic": "/Kimberlyn.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Kimberlyn.jpg",
             "email": "",
             "phone": "",
             "parent": 5
@@ -75,7 +75,7 @@
             "name": "Carlos Badilla (Scrum Master)",
             "title": "Ágil / Laboratorio Ditital",
             "dept": "Proceso ASD",
-            "pic": "/Badilla.png",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Badilla.png",
             "email": "",
             "phone": "",
             "parent": 5
@@ -85,7 +85,7 @@
             "name": "Allan Durán (Scrum Master)",
             "title": "Asegúrate / PCE",
             "dept": "Proceso ASD",
-            "pic": "/Allan.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Allan.jpg",
             "email": "",
             "phone": "",
             "parent": 5
@@ -95,7 +95,7 @@
             "name": "DA",
             "title": "Diseño de Arquitecturas",
             "dept": "Proceso AI",
-            "pic": "/DisenioArq.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/DisenioArq.jpg",
             "email": "",
             "phone": "",
             "parent": 6
@@ -105,7 +105,7 @@
             "name": "Olman Carballo",
             "title": "Diseño de Arquitecturas",
             "dept": "Proceso DA",
-            "pic": "/Olman.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Olman.jpg",
             "email": "",
             "phone": "",
             "parent": 10
@@ -115,7 +115,7 @@
             "name": "CI",
             "title": "Construcción de Interoperabilidad",
             "dept": "Proceso AI",
-            "pic": "/Interoperabilidad.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Interoperabilidad.jpg",
             "email": "",
             "phone": "",
             "parent": 6
@@ -125,7 +125,7 @@
             "name": "Óscar Romero",
             "title": "Construcción de Interoperabilidad",
             "dept": "Proceso CI",
-            "pic": "/OscarR.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/OscarR.jpg",
             "email": "",
             "phone": "",
             "parent": 11
@@ -135,7 +135,7 @@
             "name": "Óscar Chinchilla",
             "title": "Construcción de Interoperabilidad",
             "dept": "Proceso CI",
-            "pic": "/OscarC.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/OscarC.jpg",
             "email": "",
             "phone": "",
             "parent": 11
@@ -145,7 +145,7 @@
             "name": "Abraham Montero",
             "title": "Construcción de Interoperabilidad",
             "dept": "Proceso CI",
-            "pic": "/Abraham.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Abraham.jpg",
             "email": "",
             "phone": "",
             "parent": 11
@@ -155,7 +155,7 @@
             "name": "Marlon Méndez",
             "title": "Arquitectura de Datos (AD)",
             "dept": "Unidad AS",
-            "pic": "/Marlon.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Marlon.jpg",
             "email": "",
             "phone": "",
             "parent": 3
@@ -165,7 +165,7 @@
             "name": "Ricardo Zelada",
             "title": "Servicios de Entrega de Datos (ED)",
             "dept": "Proceso AD",
-            "pic": "/Zelada.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Zelada.jpg",
             "email": "",
             "phone": "",
             "parent": 15
@@ -175,7 +175,7 @@
             "name": "Mario Monge",
             "title": "Servicios de Entrega de Datos (ED)",
             "dept": "Proceso ED",
-            "pic": "/Mario.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Mario.jpg",
             "email": "",
             "phone": "",
             "parent": 16
@@ -185,7 +185,7 @@
             "name": "Randall Moya",
             "title": "Servicios de Entrega de Datos (ED)",
             "dept": "Proceso ED",
-            "pic": "/Randall.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Randall.jpg",
             "email": "",
             "phone": "",
             "parent": 16
@@ -195,7 +195,7 @@
             "name": "Leonardo Arguedas",
             "title": "Servicios de Entrega de Datos (ED)",
             "dept": "Proceso ED",
-            "pic": "/Leonardo.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Leonardo.jpg",
             "email": "",
             "phone": "",
             "parent": 16
@@ -205,7 +205,7 @@
             "name": "Cristian Alvarado",
             "title": "Servicios de Entrega de Datos (ED)",
             "dept": "Proceso ED",
-            "pic": "/Cristian.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Cristian.jpg",
             "email": "",
             "phone": "",
             "parent": 16
@@ -215,7 +215,7 @@
             "name": "Carlos Jiménez",
             "title": "Servicios de Entrega de Datos (ED)",
             "dept": "Proceso ED",
-            "pic": "/Carlos.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Carlos.jpg",
             "email": "",
             "phone": "",
             "parent": 16
@@ -225,7 +225,7 @@
             "name": "Daniel Rojas",
             "title": "Servicios de Entrega de Datos (ED)",
             "dept": "Proceso ED",
-            "pic": "/Daniel.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Daniel.jpg",
             "email": "",
             "phone": "",
             "parent": 16
@@ -235,7 +235,7 @@
             "name": "(IS) Karla Guevara",
             "title": "Servicios de Entrega de Datos (ED)",
             "dept": "Proceso ED",
-            "pic": "/Karla.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Karla.jpg",
             "email": "",
             "phone": "",
             "parent": 16
@@ -245,7 +245,7 @@
             "name": "IS Roberto Sánchez (Scrum Master)",
             "title": "Arquitectura de Datos en Nube (ADN)",
             "dept": "Proceso AD",
-            "pic": "/Roberto.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Roberto.jpg",
             "email": "",
             "phone": "",
             "parent": 15
@@ -255,7 +255,7 @@
             "name": "Stephany Esquivel (Scrum Master)",
             "title": "Arquitectura de Datos On Premises (ADOP)",
             "dept": "Proceso AD",
-            "pic": "/Stephany.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Stephany.jpg",
             "email": "",
             "phone": "",
             "parent": 15
@@ -265,7 +265,7 @@
             "name": "IS Ana Solano",
             "title": "Arquitectura de Datos On Premises (ADOP)",
             "dept": "Proceso ADOP",
-            "pic": "/Ana.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Ana.jpg",
             "email": "",
             "phone": "",
             "parent": 25
@@ -275,7 +275,7 @@
             "name": "IS David Melendez",
             "title": "Arquitectura de Datos On Premises (ADOP)",
             "dept": "Proceso ADOP",
-            "pic": "/David.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/David.jpg",
             "email": "",
             "phone": "",
             "parent": 25
@@ -285,7 +285,7 @@
             "name": "IS Andres Morales",
             "title": "Arquitectura de Datos On Premises (ADOP)",
             "dept": "Proceso ADOP",
-            "pic": "/Andres.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Andres.jpg",
             "email": "",
             "phone": "",
             "parent": 25
@@ -295,7 +295,7 @@
             "name": "IS Fabiola Espinoza",
             "title": "Arquitectura de Datos On Premises (ADOP)",
             "dept": "Proceso ADOP",
-            "pic": "/Fabiola.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Fabiola.jpg",
             "email": "",
             "phone": "",
             "parent": 25
@@ -305,7 +305,7 @@
             "name": "IS Yeremi Valverde",
             "title": "Arquitectura de Datos On Premises (ADOP)",
             "dept": "Proceso ADOP",
-            "pic": "/Yeremi.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Yeremi.jpg",
             "email": "",
             "phone": "",
             "parent": 25
@@ -315,7 +315,7 @@
             "name": "Mayra Brenes",
             "title": "Arquitecturas Tecnológicas y Low Code (ATLC)",
             "dept": "Unidad SASD",
-            "pic": "/Mayra.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Mayra.jpg",
             "email": "",
             "phone": "",
             "parent": 2
@@ -325,7 +325,7 @@
             "name": "Jenny Pereira",
             "title": "Iniciativas Tecnológicas",
             "dept": "Proceso ATLC",
-            "pic": "/Jenny.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Jenny.jpg",
             "email": "",
             "phone": "",
             "parent": 31
@@ -335,7 +335,7 @@
             "name": "SLC",
             "title": "Soluciones Low Code (PP/BPM/RPA/BOTs/SUGESE)",
             "dept": "Proceso ATLC",
-            "pic": "/LowCode.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/LowCode.jpg",
             "email": "",
             "phone": "",
             "parent": 31
@@ -345,7 +345,7 @@
             "name": "Elizabeth Angúlo",
             "title": "Soluciones Low Code",
             "dept": "Proceso SLC",
-            "pic": "/Elizabeth.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Elizabeth.jpg",
             "email": "",
             "phone": "",
             "parent": 32
@@ -355,7 +355,7 @@
             "name": "Luis Solís",
             "title": "Soluciones Low Code",
             "dept": "Proceso SLC",
-            "pic": "/Luis.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Luis.jpg",
             "email": "",
             "phone": "",
             "parent": 32
@@ -365,7 +365,7 @@
             "name": "Juan Carlos Artavia",
             "title": "Soluciones Low Code",
             "dept": "Proceso SLC",
-            "pic": "/JuanC.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/JuanC.jpg",
             "email": "",
             "phone": "",
             "parent": 32
@@ -375,7 +375,7 @@
             "name": "Equipo de Nova",
             "title": "Aplicaciones Móviles",
             "dept": "Proceso ASD",
-            "pic": "/Nova.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Nova.jpg",
             "email": "",
             "phone": "",
             "parent": 7
@@ -385,7 +385,7 @@
             "name": "Equipo de Nova",
             "title": "Ágil / Laboratorio Ditital",
             "dept": "Proceso ASD",
-            "pic": "/Nova.JPG",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Nova.JPG",
             "email": "",
             "phone": "",
             "parent": 8
@@ -395,7 +395,7 @@
             "name": "Equipo de Nova",
             "title": "Asegúrate / PCE",
             "dept": "Proceso ASD",
-            "pic": "/Nova.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Nova.jpg",
             "email": "",
             "phone": "",
             "parent": 9
@@ -405,7 +405,7 @@
             "name": "Equipo de Nova",
             "title": "Arquitectura de Datos en Nube (ADN)",
             "dept": "Proceso ADN",
-            "pic": "/nOVA.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/nOVA.jpg",
             "email": "",
             "phone": "",
             "parent": 24
@@ -415,7 +415,7 @@
             "name": "Arquitecto de Nova",
             "title": "Arquitectura de Datos (AD)",
             "dept": "Proceso AD",
-            "pic": "/Nova.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Nova.jpg",
             "email": "",
             "phone": "",
             "parent": 15
@@ -425,7 +425,7 @@
             "name": "Arquitecto de Nova",
             "title": "Arquitectuta Soluciones Digitales (ASD)",
             "dept": "Unidad SASD",
-            "pic": "/Nova.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Nova.jpg",
             "email": "",
             "phone": "",
             "parent": 5
@@ -435,7 +435,7 @@
             "name": "Arquitecto de Nova",
             "title": "Arquitectura de Interoperabilidad (AI)",
             "dept": "Unidad AS",
-            "pic": "/Nova.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Nova.jpg",
             "email": "",
             "phone": "",
             "parent": 6
