@@ -1,6 +1,6 @@
 function CallService()
 {
-  let uriServer = "http://127.0.0.1:5500/json/setGoTree.json";
+  let uriServer = "https://si0sgs.github.io/setOrganigrama/datos.json";
 
   if (uriServer != "")
   {
