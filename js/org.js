@@ -1,5 +1,5 @@
 
-var urlPublicado = "https://si0sgs.github.io/setOrganigrama";
+var urlPublicado = "https://si0sgs.github.io/SetOrg";
 
 function init() {
     const $ = go.GraphObject.make;  // for conciseness in defining templates
