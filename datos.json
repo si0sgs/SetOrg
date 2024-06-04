@@ -6,7 +6,7 @@
             "name": "Sergio González",
             "title": "Servicios Empresariales de Tecnología",
             "dept": "SET",
-            "pic": "/Sergio.jpg",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Sergio.jpg",
             "email": "",
             "phone": ""
         },
@@ -385,7 +385,7 @@
             "name": "Equipo de Nova",
             "title": "Ágil / Laboratorio Ditital",
             "dept": "Proceso ASD",
-            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Nova.JPG",
+            "pic": "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/Nova.jpg",
             "email": "",
             "phone": "",
             "parent": 8

@@ -107,8 +107,8 @@ function init() {
 
     // This converter is used by the Picture.
     function findHeadShot(pic) {
-        if (!pic) return "/setOrganigrama/samples/images/user.svg"; // There are only 16 images on the server
-        return "/setOrganigrama/samples/images/HS" + pic;
+        if (!pic) return "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/user.svg"; // There are only 16 images on the server
+        return "" + pic;
     }
 
     // Used to convert the node's tree level into a theme color
