@@ -1,4 +1,6 @@
 
+var urlPublicado = "https://si0sgs.github.io/setOrganigrama";
+
 function init() {
     const $ = go.GraphObject.make;  // for conciseness in defining templates
 
@@ -107,8 +109,8 @@ function init() {
 
     // This converter is used by the Picture.
     function findHeadShot(pic) {
-        if (!pic) return "https://si0sgs.github.io/setOrganigrama/Samples/images/HS/user.svg"; // There are only 16 images on the server
-        return "" + pic;
+        if (!pic) return urlPublicado + "/Samples/images/HS/user.svg"; // There are only 16 images on the server
+        return urlPublicado + "/Samples/images/HS/" + pic;
     }
 
     // Used to convert the node's tree level into a theme color
@@ -227,7 +229,7 @@ function init() {
                                     ),
                                     new go.Panel(go.Panel.Spot, { isClipping: true, column: 1 }).add(
                                         new go.Shape("Circle", { desiredSize: new go.Size(50, 50), strokeWidth: 0 }),
-                                        new go.Picture({ name: "PICTURE", source: "../samples/images/user.svg", desiredSize: new go.Size(50, 50) })
+                                        new go.Picture({ name: "PICTURE", source: urlPublicado + "/Samples/images/HS/user.svg", desiredSize: new go.Size(50, 50) })
                                             .bind("source", "pic", findHeadShot)
                                     )
                                 ),

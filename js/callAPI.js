@@ -1,6 +1,6 @@
 function CallService()
 {
-  let uriServer = "https://si0sgs.github.io/setOrganigrama/datos.json";
+  let uriServer = "https://si0sgs.github.io/setOrganigrama/Json/datos.json";
 
   if (uriServer != "")
   {
