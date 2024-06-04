@@ -2064,3 +2064,34 @@ responsive
     padding: 30px;
   }
 }
+
+/* Estilos generales para la clase botonformato */
+.botonformato {
+  background-color: #3498db; /* Color de fondo */
+  color: white; /* Color del texto */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  padding: 10px 20px; /* Relleno interno */
+  font-size: 16px; /* Tamaño de la fuente */
+  cursor: pointer; /* Cursor en forma de mano */
+  transition: background-color 0.3s ease; /* Transición suave para cambios de color */
+  width: 100px;
+  margin: 10px;
+  float: left;
+}
+
+/* Estilo para el hover */
+.botonformato:hover {
+  background-color: #2980b9; /* Color de fondo al pasar el ratón */
+}
+
+/* Estilo para el estado activo */
+.botonformato:active {
+  background-color: #1c598a; /* Color de fondo al hacer clic */
+}
+
+/* Estilo para el foco (cuando se navega con teclado) */
+.botonformato:focus {
+  outline: none; /* Sin contorno de foco por defecto */
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.5); /* Sombra alrededor del botón */
+}

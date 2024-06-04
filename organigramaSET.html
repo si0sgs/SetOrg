@@ -118,30 +118,32 @@ https://templatemo.com/tm-568-digimedia
                     <div style="position: absolute; width: 1px; height: 1px;"></div>
                 </div>
             </div>
-            Theme:
+            <br>
+            Tema:
             <select id="theme" onchange="changeTheme()">
                 <option value="system">System</option>
                 <option value="light" selected="">Light</option>
                 <option value="dark">Dark</option>
             </select>
+            <br>
+            <br>
             <div>
-                Edit details:<br>
+                Acciones:<br>
                 <div id="myInspector" class="inspector"></div>
             </div>
-            <p><button id="zoomToFit">Zoom to Fit</button> <button id="centerRoot">Center on root</button></p>
-
+      
+              <button class="botonformato" id="zoomToFit">Ajustar</button> 
+              <button class="botonformato" id="centerRoot">Centrar</button>
+              <button class="botonformato" id="SaveButton" onclick="save()">Guardar</button>
+              <button class="botonformato" onclick="load()">Cargar</button>
+              <h2 style="display: block; clear: both; margin-top: 90px;">Archivo JSON Cargado: </h2>
             <div>
-                <div>
-                    <button id="SaveButton" onclick="save()">Save</button>
-                    <button onclick="load()">Load</button>
-                    Diagram Model saved in JSON format:
-                </div>
                 <textarea id="mySavedModel" style="width:100%; height:270px;"></textarea>
             </div>
             <dialog>
                 <div style="display: flex; flex-direction: column;">
                     <p></p>
-                    <p>Click anywhere to close</p>
+                    <p>Click aquí para cerrar...</p>
                 </div>
             </dialog>
         </div>
